@@ -24,7 +24,7 @@ This is a program built with MySQL2, Sequelize, and Express. It is a back-end ap
 
 Once the user has seeded the database and started the server, they can open Insomnia and test the routes.The user can test their GET routes for categories, products, and tags using localhost:3001/api/DESIRED-ROUTE. Once this is fetched, the user should recieve the data for each route displayed in a formatted JSON. Additionally, the user can test their POST, PUT, and DELETE routes to create new data, update new data, and delete data in the database. 
 
-[tutorial]()
+[tutorial](https://drive.google.com/file/d/1uOmUQQQMWLeao8RIUPeZHOTZbl_bxYrJ/view )
 
 ## Credits
 
